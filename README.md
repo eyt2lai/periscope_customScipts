@@ -1,5 +1,3 @@
-# periscope_customScripts
-
 ## Template Code for Bulk Updating User Permissions Across all Dashboards for a Single Role, in Sisense for Cloud Data Teams.
 
 Hi There! Thanks for visiting this repo!
@@ -12,4 +10,4 @@ This project showcases a customizable version of some scripts that I used to aut
 
 If you use Periscope (Sisense for Cloud Data Teams) too, and are an analyst tasked with cleaning up permissions, hope you can find this useful!
 
-By no means is this a perfect solution. What I would like to do as a next step is to "dockerize" the script so that instead of updating the variables within the individual script files themselves, they simply have to be inputted in a docker `run` command upon execution of the script.
+By no means is this a perfect solution. There is plenty of room for improvement. What I would like to do as a next step is to "dockerize" the script so that instead of updating the variables within the individual script files themselves, they simply have to be inputted in a docker `run` command upon execution of the script.
