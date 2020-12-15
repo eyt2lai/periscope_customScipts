@@ -1,1 +1,1 @@
-# periscope_customScipts
+# periscope_customScripts
